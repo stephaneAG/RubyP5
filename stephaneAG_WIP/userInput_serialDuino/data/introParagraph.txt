@@ -1,0 +1,2 @@
+SerialDuino is a little debug / testing app created for rapid testing & implementing
+purposes over serial communication and the use of "simple sentenced commands"
